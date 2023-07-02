@@ -7,7 +7,7 @@ Made using Devkitarm, my terrible C skills and a logo made in MS Paint.
 
 # Installation Instructions
 
-NOTE: YOU MUST HAVE A MODDED NINTENDO 3DS TO USE THIS SOFTWARE. IF YOU DO NOT HAVE A MODDED 3DS FOLLO THIS GUIDE: https://3ds.hacks.guide/ 
+NOTE: YOU MUST HAVE A MODDED NINTENDO 3DS TO USE THIS SOFTWARE. IF YOU DO NOT HAVE A MODDED 3DS FOLLOw THIS GUIDE: https://3ds.hacks.guide/ 
 
 1. Download the latest release of Beemovieon3DS.
 2. Extract the folder and place the .3dsx folder in the 3ds folder on the root of your SD card.
